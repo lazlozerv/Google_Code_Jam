@@ -1,6 +1,8 @@
 /*
 Author of this file:Lazaros Zervos
-Use this for educational purposes
+Copyright @2018
+
+Use this code only for educational purposes
 */
 
 
