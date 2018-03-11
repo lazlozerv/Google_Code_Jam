@@ -4,7 +4,6 @@ def readCases(fileName):
 	cases=int(cases)
 	return cases
 
-
 def readNumbers(fileName,cases):
 	inputFile=open(fileName,'r')
 	number=inputFile.readline()
@@ -12,11 +11,9 @@ def readNumbers(fileName,cases):
 		number=inputFile.readline()
 	return int(number)
 
-
 def main():
 	cases=readCases('B-large-practice.in')
 	for i in range(1,cases+1):
-
 		number_list=[]
 		s=" "
 		number=readNumbers('B-large-practice.in',i)
@@ -32,7 +29,6 @@ def main():
 		if number//10 ==0:
 			print("Case #{i}: {number}".format(i=i,number=number))
 			continue
-
 
 		for z in range(len(number_list)-1):
 			if number_list[z]>number_list[z+1]:
@@ -58,7 +54,6 @@ def main():
 		tidy_number=int(s)
 		print("Case #{i}: {number}".format(i=i,number=tidy_number))
 		number_list.clear()
-
 
 
 if __name__ == '__main__':
