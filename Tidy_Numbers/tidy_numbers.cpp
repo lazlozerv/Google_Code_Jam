@@ -42,14 +42,14 @@ int main(void)	 {
 	for(int z=0; z<v.size()-1; z++) {
 		if(v[z]>v[z+1]) {
 		  if(flag==false) {
-			v[rem]=v[rem]-1;
+			v[rem]-=1;
 			for(int j=rem+1; j<v.size(); j++) {
 					v[j]=9;
 			}
 			break;
 		  }
 		  else {
-			v[z]=v[z]-1;
+			v[z]-=1;
 			for(int j=z+1; j<v.size(); j++) {
 				v[j]=9;
 			}
