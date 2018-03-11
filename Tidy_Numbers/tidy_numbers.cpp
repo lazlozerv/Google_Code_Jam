@@ -1,8 +1,11 @@
 /*
-Author of this file:Lazaros Zervos
-Copyright @2018
+A very nice problem that asks to find the last maximum "tidy" number(The digits from left to right be in ascending order),
+smaller than the given number.
 
-Use this code only for educational purposes
+Author of this file:Lazaros Zervos
+Use this code only for educational purposes.
+
+Copyright@ 2018
 */
 
 
