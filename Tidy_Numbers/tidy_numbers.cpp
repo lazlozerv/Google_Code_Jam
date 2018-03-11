@@ -1,3 +1,10 @@
+/*
+Author of this file:Lazaros Zervos
+Use this for educational purposes
+*/
+
+
+
 #include <iostream>
 #include <string>
 #include <vector>
