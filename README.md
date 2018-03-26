@@ -8,11 +8,11 @@ __This is the repository for submitting solutions to different problems of Googl
  
    *Qualification Round(Problem 2 Tidy Numbers)*
        
-        For C++
-           After you run the command "g++ -std=c++11 tidy_numbers.cpp" and the executable file is a.out
-           Now after you compile you run ./a.out <inputFileName >outputFileName and you will have all the output in a file
+     For C++
+        After you run the command "g++ -std=c++11 tidy_numbers.cpp" and the executable file is a.out
+        Now after you compile you run ./a.out <inputFileName >outputFileName and you will have all the output in a file
   
-        For Python
-           You do not need to compile anything,you just have to pass the output in a file.
-           Specifically you run the command "python tidy_numbers.py >outputFileName" like in C++ but without compiling 
+     For Python
+        You do not need to compile anything,you just have to pass the output in a file.
+        Specifically you run the command "python tidy_numbers.py >outputFileName" like in C++ but without compiling 
     
