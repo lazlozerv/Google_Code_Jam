@@ -12,7 +12,7 @@ __This is the repository for submitting solutions to different problems of Googl
       After you run the command "g++ -std=c++11 tidy_numbers.cpp" and the executable file is a.out
       Now after you compile you run ./a.out <inputFileName >outputFileName and you will have all the output in a file
   
-    For Python
+    For Python 3
       You do not need to compile anything,you just have to pass the output in a file.
-      Specifically you run the command "python tidy_numbers.py >outputFileName" like in C++ but without compiling 
+      Specifically you run the command "python 3 tidy_numbers.py >outputFileName" like in C++ but without compiling 
     
